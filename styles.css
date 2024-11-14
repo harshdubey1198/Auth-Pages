@@ -125,7 +125,7 @@ LOGIN
     padding: 10px;
     width: 100%;
     border-radius: 10px;
-    text-indent: 15%;
+    text-indent: 20%;
 }
 
 .form-input:hover, .form-input:focus{
@@ -139,7 +139,7 @@ LOGIN
 
 .input-icon{
     position: absolute;
-    left: 5%;
+    left: 4%;
     top: 50%;
     transform: translateY(-50%);
 }
